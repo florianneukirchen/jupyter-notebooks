@@ -14,4 +14,4 @@ Notebooks by [Florian Neukirchen](https://www.riannek.de/) introducing into Pyth
 
 ## Mineralogy
 
-- Visualisation of mineral data with plotly, e.g. Strunz class, crystal system, Mohs scale: [minerals.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/minerals.ipynb)
+- Visualisation of mineral data with plotly, e.g. sunburst / icicle / treemap / sankey / violin charts of Strunz class, crystal system, Mohs scale: [minerals.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/minerals.ipynb)
