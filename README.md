@@ -1,6 +1,6 @@
 # Small collection of Jupyter Notebooks
 
-Notebooks by [Florian Neukirchen](https://www.riannek.de/) introducing into Python workflows with geospacial or earth science data. Open source under [MIT License](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/LICENSE). 
+Notebooks by [Florian Neukirchen](https://www.riannek.de/) with data exploration of geospatial or earth science data, plotting, mapping. Open source under [MIT License](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/LICENSE). 
 
 ## Geospatial data
 
