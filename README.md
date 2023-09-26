@@ -1,9 +1,10 @@
 # Small collection of Jupyter Notebooks
 
-Notebooks by [Florian Neukirchen](https://www.riannek.de/) with data exploration of geospatial or earth science data, plotting, mapping, etc. using python. Open source under [MIT License](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/LICENSE). 
+ Data exploration of geospatial or earth science data, plotting, mapping, etc. using python. Notebooks by [Florian Neukirchen](https://www.riannek.de/), open source under [MIT License](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/LICENSE). 
 
 ## Geospatial data
 
+- [How to load the Kontur population dataset in QGIS on an old Laptop](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/kontur.ipynb) with some help of H3-Pandas and SQL.
 - PyGMT: Different colormaps for land and water: [holland.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/holland.ipynb)
 - Assign elevation data (from SRTM) to GPX file: [Blog](https://www.riannek.de/2022/elevation-to-gps-track-python/), [elevation.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/elevation.ipynb)
 - GPS Track to Geopandas / Shapefile: [Blog](https://www.riannek.de/2022/gpx-to-geopandas/), [gpx-track.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/gpx-track.ipynb)
