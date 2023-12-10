@@ -4,6 +4,7 @@
 
 ## Geospatial data
 
+- [Is this a chart or a map?](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/ladesaeulen.ipynb). A map for 30DayMapChallenge 2023: Charging Station for Electric Cars in Berlin, as a gridded map with histogram as ribbons on the sides, made in Python.
 - [How to load the Kontur population dataset in QGIS on an old Laptop](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/kontur.ipynb) with some help of H3-Pandas and SQL.
 - PyGMT: Different colormaps for land and water: [holland.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/holland.ipynb)
 - Assign elevation data (from SRTM) to GPX file: [Blog](https://www.riannek.de/2022/elevation-to-gps-track-python/), [elevation.ipynb](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/elevation.ipynb)
