@@ -2,6 +2,11 @@
 
  Data exploration of geospatial or earth science data, plotting, mapping, etc. using python. Notebooks by [Florian Neukirchen](https://www.riannek.de/), open source under [MIT License](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/LICENSE). 
 
+## Plotly
+
+- [Waffle chart with Plotly](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/waffle.ipynb)
+- [Sankey Charts of Refugees in the European Union, 2023](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/refugees_sankey.ipynb)
+
 ## Geospatial data
 
 - [Is this a chart or a map?](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/ladesaeulen.ipynb). A map for 30DayMapChallenge 2023: Charging Station for Electric Cars in Berlin, as a gridded map with histogram as ribbons on the sides, made in Python.
