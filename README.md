@@ -3,7 +3,7 @@
  Data exploration of geospatial or earth science data, plotting, mapping, etc. using python. Notebooks by [Florian Neukirchen](https://www.riannek.de/), open source under [MIT License](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/LICENSE). 
 
 ## Plotly
-
+- [Data Clock](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/dataclock.ipynb)
 - [Waffle chart with Plotly](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/waffle.ipynb)
 - [Sankey Charts of Refugees in the European Union, 2023](https://github.com/florianneukirchen/jupyter-notebooks/blob/main/refugees_sankey.ipynb)
 
